@@ -1,4 +1,5 @@
 {
+  "engines": {"node": "20.x"},
   "name": "everyday-market-app",
   "version": "0.0.0",
   "scripts": {
